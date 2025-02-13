@@ -18,7 +18,7 @@ Then, download extentions that we gonna use on this project.
 pip install -r requirements.txt
 ```
 
-Lastly, execute jupyter notebook
+Lastly, execute jupyter notebook and start coding
 ```
 jupyter notebook
 ```
