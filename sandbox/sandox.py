@@ -54,3 +54,32 @@ except ValueError:
 # titanic_data.select_dtypes(include=[float,int])
 
 # ====================================
+
+# **Case Study 1: Iris Flower Classification** 🌸  
+
+# ### **Background**  
+# A botanical research institute wants to develop an automated system that classifies different species of **iris flowers** based on their **sepal and petal measurements**.  The dataset consists of **150 samples**, labeled as **Setosa, Versicolor, or Virginica**.  
+
+# ### **Problem Statement**  
+# Can we use **sepal and petal dimensions** to correctly classify the **species of an iris flower**?  
+
+
+# ### **Task Description**  
+
+# #### **1. Data Exploration**  
+# - Load the dataset and display the first few rows.  
+# - Identify any missing or inconsistent values.  
+
+# #### **2. Data Cleaning**  
+# - Check for missing values and handle them appropriately.  
+# - Convert categorical species labels into a format suitable for analysis.  
+
+# #### **3. Basic Data Analysis**  
+# - Find the average sepal and petal dimensions for each species.  
+# - Identify correlations between different flower measurements.  
+
+# #### **4. Visualization**  
+# - Create simple visualizations (e.g., histograms, scatter plots) to understand data distribution.  
+
+# #### **5. Insights & Interpretation**  
+# - Summarize key findings, such as which features best distinguish flower species.  

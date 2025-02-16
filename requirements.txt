@@ -1,3 +1,5 @@
 numpy
 notebook
 pandas
+seaborn
+matplotlib
